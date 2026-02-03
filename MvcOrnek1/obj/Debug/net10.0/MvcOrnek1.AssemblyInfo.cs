@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvcOrnek1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5a5c805849885533f488771c51479b16acc321c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a554f988f9f63dff97da5e3fa66a5fe633d50d84")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvcOrnek1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvcOrnek1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
